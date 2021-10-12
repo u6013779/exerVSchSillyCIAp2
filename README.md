@@ -29,3 +29,7 @@ You don't need to complete all the steps of this tutorial. You really only need 
 * 05:39 Push changes to your new branch to GitHub
 * 06:12 Make a pull request from your new branch to the main branch
 * 07:26 Switch which branch is serving the site
+
+## Assignment Demo
+
+I recorded myself working on this assignment. Feel free to follow along. https://youtu.be/ekY4UR_NWEI
